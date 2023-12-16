@@ -3,7 +3,7 @@
 A block explorer for the [Pi Blockchain](https://minepi.com) based on Chris Hatch' repository.
 
 To use it, visit the Pi App [pi://blockchain.pi](pi://blockchain.pi) on the [Pi Browser](https://developers.minepi.com) or visit https://minepi.com/blockexplorer
-
+GCZB3EPOW2YZK5LHNOH6PYYKO4WGDB35WCZDA2QJJRYO7KE73R43NZXT
 
 ## Exploring Private / Local Development Networks<a name="private-networks"></a>
 
