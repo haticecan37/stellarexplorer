@@ -1,5 +1,5 @@
 # Stellar Explorer
-
+https://github.com/chatch/stellarexplorer.git
 [![Node.js CI](https://github.com/chatch/stellarexplorer/actions/workflows/node.js.yml/badge.svg)](https://github.com/chatch/stellarexplorer/actions/workflows/node.js.yml)
 [![Run e2e tests against production](https://github.com/chatch/stellarexplorer/actions/workflows/playwright-production.yml/badge.svg)](https://github.com/chatch/stellarexplorer/actions/workflows/playwright-production.yml)
 
